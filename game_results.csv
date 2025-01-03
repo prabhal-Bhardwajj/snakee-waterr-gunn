@@ -1,0 +1,10 @@
+Number of Rounds,Difficulty Level,User Wins,Computer Wins,User Favorite Choice,Computer Favorite Choice
+5,Very Easy,10,0,Water,Snake
+7,Very Easy,14,0,Snake,Gun
+30,Easy,48,12,Snake,Gun
+20,Very Hard,4,36,Snake,Water
+40,Normal,42,38,Snake,Water
+4,Very Hard,0,8,Snake,Gun
+5,Very Easy,10,0,Gun,Water
+5,Normal,4,6,Snake,Gun
+9,Hard,10,8,Snake,Water
